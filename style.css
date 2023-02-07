@@ -8,8 +8,12 @@
     border-radius: 10px;
     padding: 1%;
     border: 5px solid;
-    /* background-color: steelblue; */
     margin: 3%;
+}
+
+.left-element {
+    display: flex;
+    justify-content: left;
 }
 
 .header {
@@ -22,9 +26,4 @@ body {
     /* text-align: center; */
     font-family: sans-serif;
     font-size: 1.2rem
-}
-
-.darkMode {
-    background-color: black;
-    color: white;
 }
