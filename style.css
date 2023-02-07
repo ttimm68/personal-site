@@ -11,9 +11,9 @@
     margin: 3%;
 }
 
-.left-element {
-    display: flex;
-    justify-content: left;
+.dark {
+    background-color: black;
+    color: white;
 }
 
 .header {
